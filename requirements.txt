@@ -1,0 +1,15 @@
+# Noyau de calcul et Deep Learning
+torch>=2.0.0
+torchvision>=0.15.0
+
+# Traitement de données et calcul numérique
+numpy>=1.23.0
+pillow>=9.4.0
+
+# Visualisation et Surveillance
+tensorboard>=2.11.0
+matplotlib>=3.6.0
+
+# Vidéo et tests
+opencv-python>=4.7.0
+imageio>=2.25.0

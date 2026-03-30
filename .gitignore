@@ -1,0 +1,32 @@
+# Python cache and bytecode
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Build and packaging
+build/
+dist/
+*.egg-info/
+.eggs/
+
+# Virtual environments
+.venv/
+venv/
+env/
+nca_env/
+
+# Tool caches
+.pytest_cache/
+.mypy_cache/
+.ipynb_checkpoints/
+
+# Training artifacts
+logs/
+checkpoints/
+*.pth
+
+# Editor/OS files
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
